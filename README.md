@@ -1,4 +1,4 @@
-# Pendahuluan
+# Intruksi
 untuk run, cari .html di folder script
 
 # Controls
