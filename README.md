@@ -1,3 +1,6 @@
+# GameJam
+remake from fancade
+
 # Intruksi
 untuk run, cari .html di folder script
 
